@@ -1,1 +1,5 @@
-# kurucu-methodlar
+# Kurucu-Methodlar
+-----------------------------------
+## Codding by İbrahim SARIKAYA
+-----------------------------------
+[My Patika Profile](https://app.patika.dev/ibro)

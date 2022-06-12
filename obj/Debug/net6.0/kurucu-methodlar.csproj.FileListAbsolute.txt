@@ -1,0 +1,15 @@
+C:\Derslerim\kurucu-methodlar\obj\Debug\net6.0\kurucu-methodlar.csproj.AssemblyReference.cache
+C:\Derslerim\kurucu-methodlar\obj\Debug\net6.0\kurucu-methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\kurucu-methodlar\obj\Debug\net6.0\kurucu-methodlar.AssemblyInfoInputs.cache
+C:\Derslerim\kurucu-methodlar\obj\Debug\net6.0\kurucu-methodlar.AssemblyInfo.cs
+C:\Derslerim\kurucu-methodlar\obj\Debug\net6.0\kurucu-methodlar.csproj.CoreCompileInputs.cache
+C:\Derslerim\kurucu-methodlar\bin\Debug\net6.0\kurucu-methodlar.exe
+C:\Derslerim\kurucu-methodlar\bin\Debug\net6.0\kurucu-methodlar.deps.json
+C:\Derslerim\kurucu-methodlar\bin\Debug\net6.0\kurucu-methodlar.runtimeconfig.json
+C:\Derslerim\kurucu-methodlar\bin\Debug\net6.0\kurucu-methodlar.dll
+C:\Derslerim\kurucu-methodlar\bin\Debug\net6.0\kurucu-methodlar.pdb
+C:\Derslerim\kurucu-methodlar\obj\Debug\net6.0\kurucu-methodlar.dll
+C:\Derslerim\kurucu-methodlar\obj\Debug\net6.0\refint\kurucu-methodlar.dll
+C:\Derslerim\kurucu-methodlar\obj\Debug\net6.0\kurucu-methodlar.pdb
+C:\Derslerim\kurucu-methodlar\obj\Debug\net6.0\kurucu-methodlar.genruntimeconfig.cache
+C:\Derslerim\kurucu-methodlar\obj\Debug\net6.0\ref\kurucu-methodlar.dll
